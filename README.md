@@ -171,7 +171,7 @@ Each generated tile metadata file includes:
 ## Reference Data
 
 NASA PDS lunar raster files (`.img`) and their matching metadata labels (`.xml`) can be obtained from:
-- [NASA PDS Geosciences Node](https://pds-geosciences.wustl.edu/)
+- [NASA ODE](https://ode.rsl.wustl.edu/)
 - [LROC Image Search Portal](https://www.lroc.asu.edu/)
 
 For background on the design choices (tile size selection, normalization strategy, etc.), see `lunar_shadow_theory - Copy.pdf` in the repository root.
