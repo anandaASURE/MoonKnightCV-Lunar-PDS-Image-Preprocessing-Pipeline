@@ -1,3 +1,5 @@
+<img width="112" height="103" alt="image" src="https://github.com/user-attachments/assets/d90dfa40-d78b-4acd-b0e3-ce7df8bbc919" />
+
 # MoonKnightCV: Lunar Shadow Detection & Preprocessing Pipeline
 
 **Automated planetary data engineering and computer vision pipeline for NASA PDS lunar imagery — IMG-to-PNG conversion, overlapping tiling, shadow-mask generation, and spatial metadata propagation.**
