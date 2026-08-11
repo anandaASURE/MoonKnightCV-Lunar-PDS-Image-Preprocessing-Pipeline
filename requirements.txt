@@ -1,0 +1,23 @@
+# MoonKnightCV - Lunar Shadow Preprocessing Pipeline
+# Core dependencies required to run MAIN__lunar_shadow_preprocessing_pipeline_with_metadata.ipynb
+
+numpy>=1.23.0
+Pillow>=9.5.0
+matplotlib>=3.7.0
+scikit-image>=0.20.0
+scipy>=1.10.0
+
+# Jupyter environment
+jupyterlab>=4.0.0
+ipykernel>=6.25.0
+
+# --- Optional dependency ---
+# GDAL enables robust, auto-detected reading of NASA/ISRO planetary .img
+# files (complex formats, auto dimension/bit-depth detection).
+# If GDAL is not installed, the pipeline automatically falls back to
+# XML-guided or raw binary reading, so this is NOT required to run the notebook.
+# GDAL installation is platform-dependent and often easier via conda:
+#   conda install -c conda-forge gdal
+# or via pip (requires system GDAL libraries already installed):
+#   pip install GDAL==$(gdal-config --version)
+# GDAL>=3.6.0
