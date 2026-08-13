@@ -57,11 +57,7 @@ NASA PDS Raw Imagery (.img + .xml)
 ```
 
 ---
-## Output Tile Example
-<img width="256" height="256" alt="m103947777lc_tile_0001" src="https://github.com/user-attachments/assets/2ce41891-6d43-4059-87e3-66e6ddd1e721" />
 
-## Output Mask Example
-<img width="256" height="256" alt="m103947777lc_tile_0001_mask" src="https://github.com/user-attachments/assets/9b9ff4bc-0d28-44a0-a242-1d21e8036839" />
 
 ## Output Visualization Example
 <img width="1479" height="511" alt="m103947777lc_tile_0001_viz" src="https://github.com/user-attachments/assets/3f57a8f5-fe83-4ebc-a758-8e061f61e6a9" />
